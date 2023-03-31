@@ -12,7 +12,7 @@ import {
   WrapItem,
 } from "@chakra-ui/react";
 
-import tarte from "./assets/images/tarte.jpg";
+import tarte from "./assets/images/tarte.png";
 import chef from "./assets/images/le-chef-2.jpg";
 import gateau from "./assets/images/le-chef-1.jpg";
 import gateau2 from "./assets/images/nos-patisseries.jpg";
