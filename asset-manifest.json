@@ -1,16 +1,31 @@
 {
-  "main.css": "/hackaton-eco-conception/static/css/main.62b1b02e.chunk.css",
-  "main.js": "/hackaton-eco-conception/static/js/main.2554f678.chunk.js",
-  "main.js.map": "/hackaton-eco-conception/static/js/main.2554f678.chunk.js.map",
-  "static/js/1.3c11774c.chunk.js": "/hackaton-eco-conception/static/js/1.3c11774c.chunk.js",
-  "static/js/1.3c11774c.chunk.js.map": "/hackaton-eco-conception/static/js/1.3c11774c.chunk.js.map",
-  "static/js/2.6422faee.chunk.js": "/hackaton-eco-conception/static/js/2.6422faee.chunk.js",
-  "static/js/2.6422faee.chunk.js.map": "/hackaton-eco-conception/static/js/2.6422faee.chunk.js.map",
-  "runtime~main.js": "/hackaton-eco-conception/static/js/runtime~main.19e5739a.js",
-  "runtime~main.js.map": "/hackaton-eco-conception/static/js/runtime~main.19e5739a.js.map",
-  "static/media/logo.svg": "/hackaton-eco-conception/static/media/logo.06e73328.svg",
-  "static/css/main.62b1b02e.chunk.css.map": "/hackaton-eco-conception/static/css/main.62b1b02e.chunk.css.map",
-  "index.html": "/hackaton-eco-conception/index.html",
-  "precache-manifest.a138ec660db13174f4630aa53ab96f93.js": "/hackaton-eco-conception/precache-manifest.a138ec660db13174f4630aa53ab96f93.js",
-  "service-worker.js": "/hackaton-eco-conception/service-worker.js"
+  "files": {
+    "main.css": "/hackaton-eco-conception/static/css/main.e6c13ad2.css",
+    "main.js": "/hackaton-eco-conception/static/js/main.76a100a5.js",
+    "static/js/787.c5cff621.chunk.js": "/hackaton-eco-conception/static/js/787.c5cff621.chunk.js",
+    "static/media/slide-3.jpg": "/hackaton-eco-conception/static/media/slide-3.5012066de212a4e63818.jpg",
+    "static/media/map.png": "/hackaton-eco-conception/static/media/map.5320d3c0cdd81f8e3cec.png",
+    "static/media/slide-2.jpg": "/hackaton-eco-conception/static/media/slide-2.4cc1e01b077341bfcd51.jpg",
+    "static/media/slide-1.jpg": "/hackaton-eco-conception/static/media/slide-1.524930e892a507d2ba34.jpg",
+    "static/media/slide-4.jpg": "/hackaton-eco-conception/static/media/slide-4.08d5cb6722dab7440b43.jpg",
+    "static/media/nos-patisseries.jpg": "/hackaton-eco-conception/static/media/nos-patisseries.6e81428cc98e0d1267f8.jpg",
+    "static/media/le-chef-2.jpg": "/hackaton-eco-conception/static/media/le-chef-2.14f661faaec8262cf94e.jpg",
+    "static/media/le-chef-1.jpg": "/hackaton-eco-conception/static/media/le-chef-1.6d42ca7877b6acfac653.jpg",
+    "static/media/logo-fou-patesserie.svg": "/hackaton-eco-conception/static/media/logo-fou-patesserie.0fbbb59dcd8f481a952c0ce97d0e0fcc.svg",
+    "static/media/logo-lemonde.svg": "/hackaton-eco-conception/static/media/logo-lemonde.0686d842fbb75f6408825e8e47745904.svg",
+    "static/media/logo-cntraveler.svg": "/hackaton-eco-conception/static/media/logo-cntraveler.4271ccdfba46df2decf1323856ebe2b1.svg",
+    "static/media/logo-vogue.svg": "/hackaton-eco-conception/static/media/logo-vogue.efbcfb5f58605238aa88d0d95b58b19d.svg",
+    "static/media/logo-elle.svg": "/hackaton-eco-conception/static/media/logo-elle.ba54ee96f0c760f26ee109a756895593.svg",
+    "static/media/instagram.svg": "/hackaton-eco-conception/static/media/instagram.2b19df22d37c2ec3836e7603af5333f9.svg",
+    "index.html": "/hackaton-eco-conception/index.html",
+    "static/media/linkedin.svg": "/hackaton-eco-conception/static/media/linkedin.a6aa17a2258d39acedf7da7d82deacc3.svg",
+    "static/media/facebook.svg": "/hackaton-eco-conception/static/media/facebook.675c02017193ae08ef8203f0f642d993.svg",
+    "main.e6c13ad2.css.map": "/hackaton-eco-conception/static/css/main.e6c13ad2.css.map",
+    "main.76a100a5.js.map": "/hackaton-eco-conception/static/js/main.76a100a5.js.map",
+    "787.c5cff621.chunk.js.map": "/hackaton-eco-conception/static/js/787.c5cff621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.76a100a5.js"
+  ]
 }
