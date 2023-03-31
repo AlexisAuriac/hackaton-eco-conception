@@ -11,6 +11,8 @@ import {
   Wrap,
   WrapItem,
 } from "@chakra-ui/react";
+
+import tarte from "./assets/images/tarte.jpg";
 import chef from "./assets/images/le-chef-2.jpg";
 import gateau from "./assets/images/le-chef-1.jpg";
 import gateau2 from "./assets/images/nos-patisseries.jpg";
@@ -26,16 +28,19 @@ import map from "./assets/images/map.png";
 import insta from "./assets/svg/instagram.svg";
 import fb from "./assets/svg/facebook.svg";
 import linkedin from "./assets/svg/linkedin.svg";
+import Carousel from "./carouselle";
 
 function App() {
   return (
     <ChakraProvider>
-      <VStack w="100%" align="start">
-        <VStack w="100%" align="center">
+      <VStack w="100%" align="start" bg="#F5EFEA">
+        <HStack w="100%" justify="center">
+          <Image src={tarte} w="100px" />
           <Text fontWeight="500" fontSize="18px">
             Philippe Lugnac
           </Text>
-        </VStack>
+          <Image src={tarte} w="100px" />
+        </HStack>
 
         <HStack w="100%" justify="center" spacing="50px">
           <Text fontWeight="500" fontSize="18px">
@@ -53,6 +58,7 @@ function App() {
             Nous contacter
           </Text>
         </HStack>
+        <Carousel />
 
         <VStack
           w="100%"
