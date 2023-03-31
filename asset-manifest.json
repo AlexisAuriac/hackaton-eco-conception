@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hackaton-eco-conception/static/css/main.e6c13ad2.css",
-    "main.js": "/hackaton-eco-conception/static/js/main.76a100a5.js",
+    "main.js": "/hackaton-eco-conception/static/js/main.804bdc0b.js",
     "static/js/787.c5cff621.chunk.js": "/hackaton-eco-conception/static/js/787.c5cff621.chunk.js",
     "static/media/slide-3.jpg": "/hackaton-eco-conception/static/media/slide-3.5012066de212a4e63818.jpg",
     "static/media/map.png": "/hackaton-eco-conception/static/media/map.5320d3c0cdd81f8e3cec.png",
@@ -11,6 +11,7 @@
     "static/media/nos-patisseries.jpg": "/hackaton-eco-conception/static/media/nos-patisseries.6e81428cc98e0d1267f8.jpg",
     "static/media/le-chef-2.jpg": "/hackaton-eco-conception/static/media/le-chef-2.14f661faaec8262cf94e.jpg",
     "static/media/le-chef-1.jpg": "/hackaton-eco-conception/static/media/le-chef-1.6d42ca7877b6acfac653.jpg",
+    "static/media/tarte.png": "/hackaton-eco-conception/static/media/tarte.5b3434a0bdf7dd1f13f0.png",
     "static/media/logo-fou-patesserie.svg": "/hackaton-eco-conception/static/media/logo-fou-patesserie.0fbbb59dcd8f481a952c0ce97d0e0fcc.svg",
     "static/media/logo-lemonde.svg": "/hackaton-eco-conception/static/media/logo-lemonde.0686d842fbb75f6408825e8e47745904.svg",
     "static/media/logo-cntraveler.svg": "/hackaton-eco-conception/static/media/logo-cntraveler.4271ccdfba46df2decf1323856ebe2b1.svg",
@@ -21,11 +22,11 @@
     "static/media/linkedin.svg": "/hackaton-eco-conception/static/media/linkedin.a6aa17a2258d39acedf7da7d82deacc3.svg",
     "static/media/facebook.svg": "/hackaton-eco-conception/static/media/facebook.675c02017193ae08ef8203f0f642d993.svg",
     "main.e6c13ad2.css.map": "/hackaton-eco-conception/static/css/main.e6c13ad2.css.map",
-    "main.76a100a5.js.map": "/hackaton-eco-conception/static/js/main.76a100a5.js.map",
+    "main.804bdc0b.js.map": "/hackaton-eco-conception/static/js/main.804bdc0b.js.map",
     "787.c5cff621.chunk.js.map": "/hackaton-eco-conception/static/js/787.c5cff621.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.76a100a5.js"
+    "static/js/main.804bdc0b.js"
   ]
 }
